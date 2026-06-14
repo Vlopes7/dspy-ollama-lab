@@ -1,0 +1,42 @@
+[
+  {
+    "id": "email_001",
+    "content": "Assunto: URGENTE - Problema com o pedido #9821\n\nOlá, boa tarde.\n\nRecebi meu pacote ontem e o item está completamente destruído. Preciso de uma solução o quanto antes."
+  },
+  {
+    "id": "email_002",
+    "content": "Assunto: Dúvida sobre cobrança\n\nOlá.\n\nPercebi uma cobrança em duplicidade na minha fatura deste mês. Poderiam verificar o ocorrido?"
+  },
+  {
+    "id": "email_003",
+    "content": "Assunto: Elogio ao atendimento\n\nBoa tarde.\n\nGostaria de agradecer à equipe pelo excelente suporte prestado durante a instalação do produto."
+  },
+  {
+    "id": "email_004",
+    "content": "Assunto: Solicitação de reembolso\n\nOlá.\n\nSolicito o cancelamento da compra realizada em 10/06 e o respectivo reembolso do valor pago."
+  },
+  {
+    "id": "email_005",
+    "content": "Assunto: Não consigo acessar minha conta\n\nBom dia.\n\nDesde ontem estou tentando fazer login, mas recebo uma mensagem de senha inválida mesmo após redefini-la."
+  },
+  {
+    "id": "email_006",
+    "content": "Assunto: Atualização de endereço\n\nOlá.\n\nGostaria de atualizar o endereço cadastrado para futuras entregas. Como devo proceder?"
+  },
+  {
+    "id": "email_007",
+    "content": "Assunto: Produto entregue incorretamente\n\nBoa noite.\n\nRecebi um modelo diferente daquele que comprei no site. Aguardo orientações para a troca."
+  },
+  {
+    "id": "email_008",
+    "content": "Assunto: Sugestão de melhoria\n\nOlá equipe.\n\nSeria interessante disponibilizar um histórico completo dos pedidos diretamente no aplicativo."
+  },
+  {
+    "id": "email_009",
+    "content": "Assunto: Atraso na entrega\n\nBoa tarde.\n\nMeu pedido estava previsto para chegar há cinco dias e ainda não recebi nenhuma atualização."
+  },
+  {
+    "id": "email_010",
+    "content": "Assunto: Confirmação de recebimento\n\nOlá.\n\nApenas confirmando que o produto chegou em perfeito estado. Obrigado pelo atendimento."
+  }
+]
