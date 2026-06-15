@@ -1,0 +1,31 @@
+RH:
+Responsável por férias, folha de pagamento, benefícios, admissões,
+demissões, dados cadastrais, treinamento e questões trabalhistas.
+
+TI:
+Responsável por computadores, sistemas, acessos, senhas, VPN,
+e-mails corporativos, impressoras, infraestrutura e suporte técnico.
+
+JURÍDICO:
+Responsável por contratos, notificações, processos judiciais,
+compliance, pareceres legais e análise de riscos jurídicos.
+
+FINANCEIRO:
+Responsável por pagamentos, recebimentos, notas fiscais,
+reembolsos, faturamento, cobranças e fluxo de caixa.
+
+COMPRAS:
+Responsável por cotações, aquisição de materiais,
+homologação de fornecedores e pedidos de compra.
+
+LOGÍSTICA:
+Responsável por estoque, transporte, entregas,
+rastreamento, expedição e distribuição.
+
+COMERCIAL:
+Responsável por propostas comerciais, negociações,
+orçamentos, novos negócios e oportunidades de venda.
+
+ATENDIMENTO:
+Responsável por dúvidas de clientes, suporte,
+reclamações, cancelamentos e acompanhamento de solicitações.
